@@ -51,8 +51,10 @@ The user interface consists of:
 - **Toggle Theme Button**: Switches between light and dark themes.
 
 ## Screenshots
+![Screenshot Description](Screenshot%202023-09-12%20214227.png)
+![Screenshot Description](Screenshot%202023-09-12%20214307.png)
 
-(Insert screenshots of the application here)
+
 
 ---
 
